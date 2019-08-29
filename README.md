@@ -1,3 +1,18 @@
+The RandO Quote Machine
+A project built for the Front End Frameworks Certification by FreeCodeCamp using ReactJS, HTML, & CSS.
+
+Simple Component which draws from (at this point) hard coded arrays of objecst containing a quote & its authors name. 
+
+Future thoughts for Updates include: 
+- add a quote input component.
+- random background colors generator.
+- options for persistent data storage (so you dont lose all your quotes.
+
+Cheers.
+-MRE
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
